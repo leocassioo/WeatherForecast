@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">@color/primaryText</item>
+    </style>
+
+    <!-- Titles -->
+    <style name="titles">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/primaryText</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:fontFamily">@font/open_sans_bold</item>
+    </style>
+
+    <!-- Subtitles -->
+    <style name="subtitles">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/secondaryText</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:fontFamily">@font/open_sans_regular</item>
+    </style>
+
+    <!-- Remaining texts -->
+    <style name="texts">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/secondaryText</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:fontFamily">@font/open_sans_regular</item>
+    </style>
+
+    <!-- data entry search -->
+    <style name="dataEntrySearch">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:gravity">left</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textCursorDrawable">@drawable/color_cursor</item>
+        <item name="android:fontFamily">@font/open_sans_semi_bold</item>
+        <item name="android:textColor">@color/primaryText</item>
+        <item name="android:textColorHint">@color/secondaryText</item>
+    </style>
+
+</resources>

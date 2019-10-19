@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#fff</color>
+    <color name="colorAccent">#a4b9cf</color>
+
+    <color name="backgroundToolbar">#fff</color>
+
+    <color name="primaryText">#212020</color>
+    <color name="secondaryText">#a4b9cf</color>
+    <color name="terciaryText">#0097ff</color>
+
+    <color name="customGray">#f7f6f4</color>
+    <color name="customRed">#ff1432</color>
+
+</resources>
